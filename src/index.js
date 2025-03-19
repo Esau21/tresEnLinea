@@ -7,7 +7,7 @@ export default function MyApp() {
         <div>
             <h1 className='text-center text-primary'>Bienvenido a mi aplicacion tres en uno</h1>
             <div className="center-container">
-                <a className="redirect" href="https://github.com/Esau21" target="_blank" rel="noopener noreferrer">
+                <a className="redirect" href="https://github.com/Esau21/tresEnLinea.git" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-github"></i> Esau21
                 </a>
             </div>
